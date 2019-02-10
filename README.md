@@ -5,7 +5,7 @@ I have created a topojson, geojson, and simplified geojson from a shapefile (WGS
 |File Name|File Size (KB)|
 |:---|:---|
 |SG_coast.geoJSON|3,981 KB|
-|SG_coast.topJSON|910 KB|
 |SG_coast_simplified.geoJSON|2,791 KB|
+|SG_coast.topJSON|910 KB|
 
 <img src="img/South_Georgia_Coastline.png" alt="Drawing" style="text-align: center; width: 700px"/>
